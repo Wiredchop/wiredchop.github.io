@@ -7,12 +7,12 @@
 <img src="images/running_the_numbers.png?raw=true"/>
 
 ---
-[Resampling to remove bias](https://rpubs.com/Wiredchop/982737)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Resampling to Remove Bias](https://rpubs.com/Wiredchop/982737)
+<img src="images/rebalance.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Zwift Race Power Analysis](https://wiredchop.github.io/ZwiftAnalysis/)
+<img src="images/ZwiftPowerAnalysis.png?raw=true"/>
 
 ---
 
