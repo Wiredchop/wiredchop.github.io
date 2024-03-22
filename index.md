@@ -4,7 +4,7 @@
  
 
 [Fell Racing Handicapping](https://wiredchop.github.io/FellPace/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/running_the_numbers.png?raw=true"/>
 
 ---
 [Resampling to remove bias](https://rpubs.com/Wiredchop/982737)
